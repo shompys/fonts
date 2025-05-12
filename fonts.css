@@ -111,6 +111,22 @@
     font-weight: 700;
     font-display: swap;
 }
+@font-face {
+  font-family: Raleway;
+  src: url("/fonts/Raleway/Raleway-ExtraBold.woff2") format("woff2"),
+      url("/fonts/Raleway/Raleway-ExtraBold.woff") format("woff"),
+      url("/fonts/Raleway/Raleway-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: Raleway;
+  src: url("/fonts/Raleway/Raleway-Black.woff2") format("woff2"),
+      url("/fonts/Raleway/Raleway-Black.woff") format("woff"),
+      url("/fonts/Raleway/Raleway-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-display: swap;
+}
 
 /* =======================Baloo2======================== */
 
